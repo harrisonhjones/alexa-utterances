@@ -1,7 +1,7 @@
 ### Next
 
 * Your contribution here.
-* Added pull request template - [@harrisonhjones](https://github.com/harrisonhjones/)
+* Added pull request template - [@harrisonhjones](https://github.com/harrisonhjones/).
 
 ### 0.2.1
 

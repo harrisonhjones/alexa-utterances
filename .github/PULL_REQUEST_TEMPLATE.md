@@ -11,7 +11,7 @@ Describe the solution or new feature here.
 **Doneness:**
 
 - [x] Be awesome for submitting a PR
-- [ ] [CONTRIBUTING reviewed](https://github.com/alexa-js/alexa-utterances/blob/master/CONTRIBUTING.md)
+- [ ] [CONTRIBUTING](https://github.com/alexa-js/alexa-utterances/blob/master/CONTRIBUTING.md) reviewed
 - [ ] Test(s) written to reproduce the problem or missing feature
 - [ ] Code written to solve the problem or implement the new feature
 - [ ] [README](https://github.com/alexa-js/alexa-utterances/blob/master/README.md) updated with documentation (if applicable)
